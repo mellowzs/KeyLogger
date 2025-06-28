@@ -1,0 +1,7 @@
+User Input: F5F5F5F5F5DELETEF5F5F5F5F5F5F5F5F5F5no logs
+Active Window Information:
+Key Pressed: RETURN
+Title: Midterm - File Explorer
+App: Windows Explorer
+ID: 264884
+Timestamp: 2025-03-15T07-54-50

@@ -1,0 +1,7 @@
+User Input: 
+Active Window Information:
+Key Pressed: TAB
+Title: keylog_2025-06-28T13-28-21.txt - Notepad
+App: Notepad.exe
+ID: 396234
+Timestamp: 2025-06-28T13-28-39

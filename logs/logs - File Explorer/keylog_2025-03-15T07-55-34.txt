@@ -1,0 +1,7 @@
+User Input: test
+Active Window Information:
+Key Pressed: RETURN
+Title: logs - File Explorer
+App: Windows Explorer
+ID: 264884
+Timestamp: 2025-03-15T07-55-34

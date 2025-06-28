@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "node testlogger.js", 0, True

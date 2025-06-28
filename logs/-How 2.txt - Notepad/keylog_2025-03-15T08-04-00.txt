@@ -1,0 +1,7 @@
+User Input: DOTjs run time then end task
+Active Window Information:
+Key Pressed: TAB
+Title: *How 2.txt - Notepad
+App: Notepad.exe
+ID: 395882
+Timestamp: 2025-03-15T08-04-00

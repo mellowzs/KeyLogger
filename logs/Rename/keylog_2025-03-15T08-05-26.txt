@@ -1,0 +1,7 @@
+User Input: v then end taskcccccccssLEFT ARROW use
+Active Window Information:
+Key Pressed: RETURN
+Title: Rename
+App: Windows Explorer
+ID: 788836
+Timestamp: 2025-03-15T08-05-26

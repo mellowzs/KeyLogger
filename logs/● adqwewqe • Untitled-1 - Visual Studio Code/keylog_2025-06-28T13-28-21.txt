@@ -1,0 +1,7 @@
+User Input: nadqwewqe
+Active Window Information:
+Key Pressed: RETURN
+Title: ● adqwewqe • Untitled-1 - Visual Studio Code
+App: Visual Studio Code
+ID: 265418
+Timestamp: 2025-06-28T13-28-21

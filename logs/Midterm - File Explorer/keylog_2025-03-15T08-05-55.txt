@@ -1,0 +1,7 @@
+User Input: test
+Active Window Information:
+Key Pressed: RETURN
+Title: Midterm - File Explorer
+App: Windows Explorer
+ID: 330072
+Timestamp: 2025-03-15T08-05-55

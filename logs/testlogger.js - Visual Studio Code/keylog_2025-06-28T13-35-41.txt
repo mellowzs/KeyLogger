@@ -1,0 +1,7 @@
+User Input: test
+Active Window Information:
+Key Pressed: RETURN
+Title: testlogger.js - Visual Studio Code
+App: Visual Studio Code
+ID: 265418
+Timestamp: 2025-06-28T13-35-41
